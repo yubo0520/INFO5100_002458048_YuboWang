@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bookShelf>
+  <book>
+    <title>Effective Java</title>
+    <publishedYear>2017</publishedYear>
+    <numberOfPages>435</numberOfPages>
+    <authors>
+      <author>Robert C. Martin</author>
+      <author>Joshua Bloch</author>
+    </authors>
+  </book>
+  <book>
+    <title>Java Concurrency in Practice</title>
+    <publishedYear>2014</publishedYear>
+    <numberOfPages>395</numberOfPages>
+    <authors>
+      <author>Herbert chilli</author>
+      <author>Richard Helm</author>
+      <author>Ralph Johnson</author>
+    </authors>
+  </book>
+  <book>
+    <title>The Complete Reference</title>
+    <publishedYear>2021</publishedYear>
+    <numberOfPages>1234</numberOfPages>
+    <authors>
+      <author>Thomas H. Cormen</author>
+      <author>Josef Dojo</author>
+    </authors>
+  </book>
+  <book>
+    <title>Modern Java in Action: Lambdas, Streams, Functional and Reactive</title>
+    <publishedYear>2018</publishedYear>
+    <numberOfPages>592</numberOfPages>
+    <authors>
+      <author>Alan Mycroft</author>
+      <author>Mario Fosco</author>
+    </authors>
+  </book>
+  <book>
+    <title>Smart Java</title>
+    <publishedYear>2022</publishedYear>
+    <numberOfPages>500</numberOfPages>
+    <authors>
+      <author>DOJO</author>
+      <author>Join</author>
+    </authors>
+  </book>
+</bookShelf>

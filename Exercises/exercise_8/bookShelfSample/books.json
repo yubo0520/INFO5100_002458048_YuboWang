@@ -1,0 +1,28 @@
+{
+  "books" : [ {
+    "title" : "Effective Java",
+    "publishedYear" : 2017,
+    "numberOfPages" : 435,
+    "authors" : [ "Robert C. Martin", "Joshua Bloch" ]
+  }, {
+    "title" : "Java Concurrency in Practice",
+    "publishedYear" : 2014,
+    "numberOfPages" : 395,
+    "authors" : [ "Herbert chilli", "Richard Helm", "Ralph Johnson" ]
+  }, {
+    "title" : "The Complete Reference",
+    "publishedYear" : 2021,
+    "numberOfPages" : 1234,
+    "authors" : [ "Thomas H. Cormen", "Josef Dojo" ]
+  }, {
+    "title" : "Modern Java in Action: Lambdas, Streams, Functional and Reactive",
+    "publishedYear" : 2018,
+    "numberOfPages" : 592,
+    "authors" : [ "Alan Mycroft", "Mario Fosco" ]
+  }, {
+    "title" : "Smart Java",
+    "publishedYear" : 2022,
+    "numberOfPages" : 500,
+    "authors" : [ "DOJO", "Join" ]
+  } ]
+}
